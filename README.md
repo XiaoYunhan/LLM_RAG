@@ -1,1 +1,3 @@
-# LLM_RAG
+# LLM RAG
+
+## LLM with Microsoft GraphRAG
